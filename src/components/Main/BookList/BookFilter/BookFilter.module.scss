@@ -1,0 +1,21 @@
+.FilterHolder {
+  display: flex;
+}
+
+.GenreFilter {
+  flex: 0.5;
+  padding: 0.5rem;
+
+  > div {
+    width: 100%;
+  }
+}
+
+.GenderFilter {
+  flex: 0.5;
+  padding: 0.5rem;
+
+  > div {
+    width: 100%;
+  }
+}
